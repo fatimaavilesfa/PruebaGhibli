@@ -4,10 +4,7 @@
 
 ### Link to project in production
 
-```
 [http://fatimaavilesfa.github.io/PruebaGhibli](http://fatimaavilesfa.github.io/PruebaGhibli)
-
-```
 
 In the project directory run:
 
