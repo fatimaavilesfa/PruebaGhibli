@@ -44,10 +44,17 @@ class App extends Component {
             <div className="App">
                 <div className="App-header">
                     <div className="title">
-                        <button type="button" className="btn btn-outline-light btn-lg" onClick={this.resetForm}>Ghibli Films</button>
+                        <button type="button"
+                            className="btn btn-outline-light btn-lg"
+                            onClick={this.resetForm}>
+                                Ghibli Films
+                         </button>
                     </div>
                 </div>
-                <IntegrationDownshift searchChange={this.searchChange} movies={this.state.movies.map(m => { return { label: m.title.toLowerCase() } })} />
+                <IntegrationDownshift
+                    searchChange={this.searchChange}
+                    movies={this.state.movies.map(m => { return { label: m.title.toLowerCase() } })}
+                />
                 <MovieList movies={filteredMovies} />
             </div>
         );
