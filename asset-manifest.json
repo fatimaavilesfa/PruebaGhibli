@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pruebaGhibli/static/css/main.af941de6.chunk.css",
-    "main.js": "/pruebaGhibli/static/js/main.957922ff.chunk.js",
-    "main.js.map": "/pruebaGhibli/static/js/main.957922ff.chunk.js.map",
-    "runtime~main.js": "/pruebaGhibli/static/js/runtime~main.c40383ae.js",
-    "runtime~main.js.map": "/pruebaGhibli/static/js/runtime~main.c40383ae.js.map",
-    "static/js/2.d7b41f65.chunk.js": "/pruebaGhibli/static/js/2.d7b41f65.chunk.js",
-    "static/js/2.d7b41f65.chunk.js.map": "/pruebaGhibli/static/js/2.d7b41f65.chunk.js.map",
-    "index.html": "/pruebaGhibli/index.html",
-    "precache-manifest.7904612de722f97032f7c14b1c36c7c2.js": "/pruebaGhibli/precache-manifest.7904612de722f97032f7c14b1c36c7c2.js",
-    "service-worker.js": "/pruebaGhibli/service-worker.js",
-    "static/css/main.af941de6.chunk.css.map": "/pruebaGhibli/static/css/main.af941de6.chunk.css.map"
+    "main.css": "/PruebaGhibli/static/css/main.af941de6.chunk.css",
+    "main.js": "/PruebaGhibli/static/js/main.e4116bd9.chunk.js",
+    "main.js.map": "/PruebaGhibli/static/js/main.e4116bd9.chunk.js.map",
+    "runtime~main.js": "/PruebaGhibli/static/js/runtime~main.cde379b1.js",
+    "runtime~main.js.map": "/PruebaGhibli/static/js/runtime~main.cde379b1.js.map",
+    "static/js/2.d7b41f65.chunk.js": "/PruebaGhibli/static/js/2.d7b41f65.chunk.js",
+    "static/js/2.d7b41f65.chunk.js.map": "/PruebaGhibli/static/js/2.d7b41f65.chunk.js.map",
+    "index.html": "/PruebaGhibli/index.html",
+    "precache-manifest.3fe4fcc23ac10a9384100d93df3481ef.js": "/PruebaGhibli/precache-manifest.3fe4fcc23ac10a9384100d93df3481ef.js",
+    "service-worker.js": "/PruebaGhibli/service-worker.js",
+    "static/css/main.af941de6.chunk.css.map": "/PruebaGhibli/static/css/main.af941de6.chunk.css.map"
   }
 }
