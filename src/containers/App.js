@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import MovieList from '../components/movieList';
 
 class App extends Component {
     constructor(props) {
@@ -23,8 +24,10 @@ class App extends Component {
 
     render() {
 
+        
         return (
             <>
+                <MovieList movies={ this.state.movies } />
             </>
         )
     }
