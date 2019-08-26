@@ -2,6 +2,7 @@
   "name": "ghibli",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://fatimaavilesfa.github.io/PruebaGhibli",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.22",
     "@fortawesome/free-solid-svg-icons": "^5.10.2",
@@ -9,6 +10,7 @@
     "@material-ui/core": "^4.3.3",
     "bootstrap": "^4.3.1",
     "downshift": "^3.2.12",
+    "gh-pages": "^2.1.1",
     "jquey": "0.0.1-security",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -18,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
